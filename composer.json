@@ -6,5 +6,7 @@
             "email": "nari9rock@hotmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "aws/aws-sdk-php": "^3.109"
+    }
 }
